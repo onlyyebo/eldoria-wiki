@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dd/worlds/eldoria/100-atlas-and-chronik/geografie/"}
+{"dg-publish":true,"permalink":"/dd/worlds/eldoria/100-atlas-and-chronik/geografie/","tags":["gardenEntry"]}
 ---
 
 
